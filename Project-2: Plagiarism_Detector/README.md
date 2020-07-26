@@ -15,4 +15,4 @@ This project uses the following software and Python libraries:
 * [scikit-learn](https://scikit-learn.org/0.17/install.html)
 * [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 
-[References](https://github.com/raduenuca/sagemaker-plagiarism-detection)
+[References](https://github.com/raduenuca/sagemaker-plagiarism-detection): I used to finish this project successfully
