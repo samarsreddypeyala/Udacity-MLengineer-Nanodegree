@@ -1,5 +1,5 @@
-# Deploy a Sentiment Analysis Model
-*Udacity - Machine Learning Engineer Nanodegree Program*
+# Sentiment Analysis Model Deployment
+Udacity - Machine Learning Engineer Nanodegree 2020
 
 ## Project Overview
 The goal of this project is to build and deploy a Sentiment Analysis model using Amazon's SageMaker platform in order
