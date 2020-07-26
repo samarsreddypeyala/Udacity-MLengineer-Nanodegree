@@ -14,3 +14,5 @@ This project uses the following software and Python libraries:
 * [pandas](https://pandas.pydata.org/)
 * [scikit-learn](https://scikit-learn.org/0.17/install.html)
 * [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
+
+[References](https://github.com/raduenuca/sagemaker-plagiarism-detection)
