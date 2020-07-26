@@ -16,4 +16,4 @@ This project uses the following software and Python libraries:
 * [PyTorch](https://pytorch.org/)
 * [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 
-[References](https://github.com/raduenuca/sagemaker-sentiment-analysis)
+[References](https://github.com/raduenuca/sagemaker-sentiment-analysis): I used to finish this project successfully
