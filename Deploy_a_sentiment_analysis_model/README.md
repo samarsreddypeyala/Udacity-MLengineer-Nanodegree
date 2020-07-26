@@ -15,3 +15,5 @@ This project uses the following software and Python libraries:
 * [pandas](https://pandas.pydata.org/)
 * [PyTorch](https://pytorch.org/)
 * [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
+
+[references](https://github.com/raduenuca/sagemaker-sentiment-analysis)
