@@ -1,5 +1,5 @@
 # Plagiarism Detection
-*Plagiarism Detection: Udacity - Machine Learning Engineer Nanodegree Program*
+Udacity - Machine Learning Engineer Nanodegree 2020
 
 ## Project Overview
 This project builds a plagiarism detector that examines a text file and performs binary classification; labeling
